@@ -242,7 +242,7 @@ body {
 
 @media (max-width: 575px) {
     .consulation_info {
-        padding: 25px 30px 15px;
+        padding: 25px 5px 15px 75px;
     }
 }
 
